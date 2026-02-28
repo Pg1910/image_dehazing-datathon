@@ -48,6 +48,14 @@ The system is designed for real-world Indian fog conditions, including:
 
 # Project Structure
 
+---
+
+
+## Pipeline Architecture
+
+![Pipeline Architecture](Green%20and%20Peach%20Simple%20Flowchart%20.png)
+*Figure: The complete pipeline architecture for our dehazing solution, as illustrated in the combined green and peach flowchart.*
+
 ```
 dehaze-hack/
 │
