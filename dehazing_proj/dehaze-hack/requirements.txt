@@ -1,0 +1,7 @@
+numpy
+opencv-python
+pillow
+scikit-image
+gradio # can also switch to streamlit later if needed
+pyyaml
+torchmetrics
